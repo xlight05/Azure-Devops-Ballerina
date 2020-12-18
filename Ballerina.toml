@@ -1,0 +1,7 @@
+[package]
+org = "anjana"
+name = "azure_devops_websub"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
